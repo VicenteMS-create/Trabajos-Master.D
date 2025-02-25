@@ -1,0 +1,63 @@
+.inicio{
+    color: yellowgreen;
+}
+header nav{
+    position: absolute;
+    right: 220px;
+    top: 100px;
+    letter-spacing: 10px;
+    word-spacing: 120px;
+    font-size: small;
+}
+header nav li{
+    display: inline;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.buscar{
+    position: relative;
+    top: 157px;
+    left: 640px;
+}
+footer{
+    position: absolute;
+    top: 810px;
+}
+header img{
+    position: absolute;
+    width: 250px;
+    left: 620px;
+}
+header hr{
+    top: 60px;
+}
+main div{
+    position: absolute;
+    top: 180px;
+    right: 110px;
+}
+main div img{
+    width: 270px;
+    padding: 80px;
+}
+footer{
+    color: gray;
+}
+footer div{
+    position: relative;
+    display: inline;
+    left: 730px;
+    top: -70px;
+    color-scheme: grey;
+}
+.ubicacion{
+    position: relative;
+    left: 1300px;
+    top: 15px;
+}
+.derechos{
+    position: relative;
+    top: -20px;
+}

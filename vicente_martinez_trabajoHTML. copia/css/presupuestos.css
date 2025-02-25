@@ -1,0 +1,103 @@
+.presupuestos{
+    color: yellowgreen;
+}
+header nav{
+    position: absolute;
+    right: 220px;
+    top: 100px;
+    letter-spacing: 10px;
+    word-spacing: 120px;
+    font-size: small;
+}
+header nav li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+header img{
+    position: absolute;
+    top: 10px;
+    width: 250px;
+    left: 620px;
+}
+header hr{
+    top: 60px;
+}
+.datos{
+    position: absolute;
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+    right: 250px;
+    top: -90px;
+}
+.cuadro{
+    position: relative; 
+    top: 50px; 
+    right: 260px;
+    width: 650px;
+}
+main{
+    position: absolute;
+    top: 300px;
+    right: 170px;
+}
+.buscar{
+    position: relative;
+    top: 180px;
+    left: 640px;
+}
+.enviar{
+    position: relative;
+    font-size: medium;
+    top: 250px;
+    left: -285px;
+}
+.info{
+    position: relative;
+    top: 50px;
+    width: 300px;
+    right: 90px;
+}
+.cbox1{
+    position: relative;
+    top: 180px;
+    right: 60px;
+}
+.cbox2{
+    position: relative;
+    top: 160px;
+    left: 70px;
+}
+footer{
+    color: gray;
+}
+footer div{
+    position: relative;
+    display: inline;
+    left: 730px;
+    top: -70px;
+    color-scheme: grey;
+}
+footer{
+    position: absolute;
+    top: 810px;
+}
+.ubicacion{
+    position: relative;
+    left: 1300px;
+    top: 15px;
+}
+.derechos{
+    position: relative;
+    top: -20px;
+}
+.redes-sociales{
+    position: relative;
+    left: 720px;
+}
+input:invalid{
+    background-color: tomato;
+}

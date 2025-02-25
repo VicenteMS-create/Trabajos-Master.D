@@ -1,0 +1,67 @@
+.contacto{
+    color: yellowgreen;
+}
+header nav{
+    position: absolute;
+    right: 220px;
+    top: 100px;
+    letter-spacing: 10px;
+    word-spacing: 120px;
+    font-size: small;
+}
+header nav li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    position: absolute;
+    top: 820px;
+}
+header img{
+    position: absolute;
+    width: 250px;
+    left: 620px;
+}
+header hr{
+    top: 60px;
+}
+.mapa{
+    position: relative;
+    left: 530px;
+    top: 180px;
+    width: 400px;
+}
+.ubi{
+    position: relative;
+    text-align: center;
+    top: 200px;
+    font-size: x-large;
+    font-style: italic;
+    letter-spacing: 5px;
+}
+footer{
+    color: gray;
+}
+footer div{
+    position: relative;
+    display: inline;
+    left: 730px;
+    top: -70px;
+    color-scheme: grey;
+}
+.ubicacion{
+    position: relative;
+    left: 1300px;
+    top: 25px;
+}
+.derechos{
+    position: relative;
+    top: -20px;
+}
+footer{
+    position: absolute;
+    top: 810px;
+}

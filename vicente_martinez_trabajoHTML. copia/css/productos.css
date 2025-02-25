@@ -1,0 +1,79 @@
+.productos{
+    color: yellowgreen;
+}
+header nav{
+    position: absolute;
+    right: 220px;
+    top: 100px;
+    letter-spacing: 10px;
+    word-spacing: 120px;
+    font-size: small;
+}
+header nav li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+header img{
+    position: absolute;
+    width: 250px;
+    left: 620px;
+}
+header hr{
+    top: 60px;
+}
+footer div{
+    position: relative;
+    display: inline;
+    left: 730px;
+    top: -100px;
+    color-scheme: grey;
+}
+.sudaderas{
+   padding-top: 150px;
+   padding-left: 300px;
+   word-spacing: 100px;
+}
+.ubicacion{
+    position: relative;
+    left: 1300px;
+    top: 15px;
+}
+.camisetas{
+    padding-left: 100px;
+    word-spacing: 50px;
+}
+.cuadros{
+    padding-left: 550px;
+}
+.cuadro{
+    padding-left: 520px;
+    padding-top: 50px;
+    width: 500px;
+}
+.sudadera{
+    position: absolute;
+    left: 700px;
+    top: 200px;
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+}
+.camiseta{
+    position: absolute;
+    left: 690px;
+    top: 670px;
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+}
+.cuadros{
+    position: absolute;
+    right: 720px;
+    top: 1250px;
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+}
